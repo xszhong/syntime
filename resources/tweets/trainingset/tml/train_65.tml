@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>train_65.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2014-12-05">2014-12-05</TIMEX3></DCT>
+<TEXT>
+Collected my SCMS2014 Race pack at Expo, knee still injured :( and got ATEC, so won't be running. Bought Energy Gels for <TIMEX3 tid="t1" type="DATE" value="FUTURE_REF">future</TIMEX3>, bars for ATEC</TEXT>
+</TimeML>

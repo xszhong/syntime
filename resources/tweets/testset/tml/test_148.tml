@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>test_148.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2013-09-21">2013-09-21</TIMEX3></DCT>
+<TEXT>
+Pure Yoga Shanghai teacher, Shiva in Pure Apparel. We'll launch in Shanghai <TIMEX3 tid="t1" type="DATE" value="2013-10">this October</TIMEX3> so stay tuned for updates! http://t.co/YeTOv9tN1b</TEXT>
+</TimeML>

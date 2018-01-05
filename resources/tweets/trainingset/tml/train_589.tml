@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>train_589.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2015-04-20">2015-04-20</TIMEX3></DCT>
+<TEXT>
+JOIN ALL POPULATIONS REFORMER COURSE <TIMEX3 tid="t1" type="DATE" value="2015-05-02">May 2</TIMEX3> - <TIMEX3 tid="t2" type="DATE" value="2015-05-03">3</TIMEX3>, <TIMEX3 tid="t3" type="DATE" value="2015-05-09">9</TIMEX3> - <TIMEX3 tid="t4" type="DATE" value="2015-05-10">10</TIMEX3>, <TIMEX3 tid="t5" type="DATE" value="2015-05-16">16</TIMEX3> - <TIMEX3 tid="t6" type="DATE" value="2015-05-17">17</TIMEX3>, <TIMEX3 tid="t7" type="DATE" value="2015-05-23">23</TIMEX3> - <TIMEX3 tid="t8" type="DATE" value="2015-05-24">24</TIMEX3>, <TIMEX3 tid="t9" type="DATE" value="2015-05-30">30</TIMEX3> - <TIMEX3 tid="t10" type="DATE" value="2015-05-31">31</TIMEX3> (<TIMEX3 tid="t11" type="DATE" value="2015-05-02-WXX-6">Sat</TIMEX3>-<TIMEX3 tid="t12" type="TIME" value="2015-05-03-WXX-7T13:00">Sun 1:00pm</TIMEX3>-<TIMEX3 tid="t13" type="DATE" value="2015-05-03T18:00">6:00pm</TIMEX3>)... http://t.co/Ixbt5v6Ufi</TEXT>
+</TimeML>

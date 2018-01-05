@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>train_540.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2014-05-29">2014-05-29</TIMEX3></DCT>
+<TEXT>
+#HiCollage @fotorusofficial SPICY SPANISH BURGER AND FREE TRAM RIDE <TIMEX3 tid="t1" type="DATE" value="XXXX-XX-XX">DAY</TIMEX3> YEY! THINGS TO LOVE ABOUT HK @... http://t.co/2UA9gXEYDx</TEXT>
+</TimeML>

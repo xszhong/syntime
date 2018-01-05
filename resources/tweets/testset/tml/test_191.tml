@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>test_191.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2014-07-27">2014-07-27</TIMEX3></DCT>
+<TEXT>
+<TIMEX3 tid="t1" type="DATE" value="2014-07-28">Tomorrow</TIMEX3> is about Eat! Eat! Eat! Eat! Eat! and duit raya and forgiving but mostly on eating.</TEXT>
+</TimeML>

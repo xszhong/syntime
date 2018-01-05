@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>train_542.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2014-05-21">2014-05-21</TIMEX3></DCT>
+<TEXT>
+New Trampolines for Cardiolates Rebounding Course in OptionsStudio Singapore! Join us for our <TIMEX3 tid="t1" type="DURATION" value="P2D">2-day</TIMEX3> course! It... http://t.co/E0GTbEwP5i</TEXT>
+</TimeML>

@@ -1,0 +1,6 @@
+[TIME_UNIT_REGEX]	period('?s)?|date('?s)?|while
+
+[PREFIX_REGEX_1]	fiscal|additional|full
+[PREFIX_REGEX_2]	part
+
+[SUFFIX_REGEX]	ahead

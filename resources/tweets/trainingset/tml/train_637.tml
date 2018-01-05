@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>train_637.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2013-03-20">2013-03-20</TIMEX3></DCT>
+<TEXT>
+<TIMEX3 tid="t1" type="DATE" value="2013-03-21">tmr</TIMEX3> is an Equinox <TIMEX3 tid="t2" type="DATE" value="XXXX-XX-XX">day</TIMEX3>. Sun will rise exactly in East, be directly overhead at solar <TIMEX3 tid="t3" type="TIME" value="2013-03-20T12:00">noon</TIMEX3> (about <TIMEX3 tid="t4" type="TIME" value="2013-03-20T22:00">1.10pm SGT</TIMEX3>), and set exactly in the West.</TEXT>
+</TimeML>

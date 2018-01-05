@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>test_25.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2015-02-12">2015-02-12</TIMEX3></DCT>
+<TEXT>
+The SEC-StarHub School Green Awards (SGA) <TIMEX3 tid="t1" type="DATE" value="2015">2015</TIMEX3> has been launched! Dr Vivian Balakrishnan, Minister for the... http://t.co/XtnR4SFOt7</TEXT>
+</TimeML>

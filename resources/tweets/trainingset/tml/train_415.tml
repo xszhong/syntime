@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>train_415.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2013-11-17">2013-11-17</TIMEX3></DCT>
+<TEXT>
+Hi. Im on my way to my dajie new house , have a nice <TIMEX3 tid="t1" type="DURATION" value="P1D">day</TIMEX3>! *cookie* #cookie#newhouse#sister#pet#doggie http://t.co/6WTEMkfBlT</TEXT>
+</TimeML>

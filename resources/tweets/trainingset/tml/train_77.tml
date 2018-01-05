@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>train_77.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2014-01-31">2014-01-31</TIMEX3></DCT>
+<TEXT>
+Red dress for cny <TIMEX3 tid="t1" type="DURATION" value="P1D-#1">day 1</TIMEX3> hope everyone had a great <TIMEX3 tid="t2" type="DURATION" value="P1D">day</TIMEX3> gathering with ur family and friends http://t.co/gOOTWBTg0a</TEXT>
+</TimeML>

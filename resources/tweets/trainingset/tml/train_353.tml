@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>train_353.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2013-05-02">2013-05-02</TIMEX3></DCT>
+<TEXT>
+I rky need a full-time, office <TIMEX3 tid="t1" type="DURATION" value="PTXH">hours</TIMEX3> job. I cannot do this 2-8 shit. I feel sad when i see kids there.</TEXT>
+</TimeML>

@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>train_334.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2013-02-24">2013-02-24</TIMEX3></DCT>
+<TEXT>
+After <TIMEX3 tid="t1" type="DURATION" value="P1W">a week</TIMEX3> of -2 degrees, welcoming Singapore heat and funny faces waiting for me #worklifebalance http://t.co/Yutuwsbe4g</TEXT>
+</TimeML>

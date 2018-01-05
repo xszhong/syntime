@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>train_519.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2014-04-19">2014-04-19</TIMEX3></DCT>
+<TEXT>
+#HiCollage @fotorusofficial BLACK <TIMEX3 tid="t1" type="DATE" value="2014-04-19-WXX-6">SATURDAY</TIMEX3> WORKOUT WITH GYM BUD AFTER 2 SHOWS AND PIGGING OUT ON THAI... http://t.co/B4LcDoI0hS</TEXT>
+</TimeML>

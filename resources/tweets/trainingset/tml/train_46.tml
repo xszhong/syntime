@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>train_46.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2015-04-08">2015-04-08</TIMEX3></DCT>
+<TEXT>
+@shxnlxng @hi_curl oh yeah sure! See you guys right at the bar with fish and chips then! Omg cant wait to fly. <TIMEX3 tid="t1" type="DURATION" value="PTXH">2 more hours</TIMEX3>!!</TEXT>
+</TimeML>

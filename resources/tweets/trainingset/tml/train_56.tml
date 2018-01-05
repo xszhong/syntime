@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>train_56.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2014-04-15">2014-04-15</TIMEX3></DCT>
+<TEXT>
+Special Class for <TIMEX3 tid="t1" type="DATE" value="2014-04">the month of April</TIMEX3>: Chair and Reformer Circuit Training. For more details regarding our classes... http://t.co/PUS4peBmdz</TEXT>
+</TimeML>

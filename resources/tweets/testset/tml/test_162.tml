@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>test_162.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2014-12-16">2014-12-16</TIMEX3></DCT>
+<TEXT>
+Just ran 10km at this beautiful place. Been <TIMEX3 tid="t1" type="DURATION" value="PXM">months</TIMEX3>... Ppl have to stop reminding me that I've put on a... http://t.co/kmjeYrrfyT</TEXT>
+</TimeML>

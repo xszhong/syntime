@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>train_741.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2012-11-22">2012-11-22</TIMEX3></DCT>
+<TEXT>
+@rachel_spore how about <TIMEX3 tid="t1" type="TIME" value="2012-11-23-WXX-5TNI">friday night</TIMEX3> or <TIMEX3 tid="t2" type="DATE" value="2012-11-24-WXX-6">sat</TIMEX3>? We can go nearby our area! :)</TEXT>
+</TimeML>

@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>train_183.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2014-04-27">2014-04-27</TIMEX3></DCT>
+<TEXT>
+@ChiaSiNi ok lah here but a bit stupid <TIMEX3 tid="t1" type="SET" value="XXXX-WXX-1">every mon</TIMEX3>, <TIMEX3 tid="t2" type="SET" value="XXXX-WXX-3">wed</TIMEX3>, <TIMEX3 tid="t3" type="SET" value="XXXX-WXX-4">thur</TIMEX3> got parade... Then <TIMEX3 tid="t4" type="SET" value="XXXX-XX-XXT22:00">every nite 10pm</TIMEX3> must go parade square count strength</TEXT>
+</TimeML>

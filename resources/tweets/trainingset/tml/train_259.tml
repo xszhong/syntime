@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>train_259.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2013-03-27">2013-03-27</TIMEX3></DCT>
+<TEXT>
+Colonial <TIMEX3 tid="t1" type="DATE" value="PAST_REF">past</TIMEX3>, war to peace, bright <TIMEX3 tid="t2" type="DATE" value="FUTURE_REF">future</TIMEX3>, beautiful Colombo in Sri Lanka http://t.co/sfspH9EYDu</TEXT>
+</TimeML>

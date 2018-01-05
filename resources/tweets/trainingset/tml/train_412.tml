@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>train_412.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2014-08-08">2014-08-08</TIMEX3></DCT>
+<TEXT>
+Photo: I think I'm never taking this #GrabDenim jacket off. Yup, I wore it out on my coffee run at <TIMEX3 tid="t1" type="TIME" value="2014-08-08T13:00">1pm</TIMEX3> in... http://t.co/cvgfY137xU</TEXT>
+</TimeML>

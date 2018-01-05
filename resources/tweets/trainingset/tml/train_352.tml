@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>train_352.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2014-05-16">2014-05-16</TIMEX3></DCT>
+<TEXT>
+#flashback <TIMEX3 tid="t1" type="DATE" value="2014-05-16-WXX-5">friday</TIMEX3>! #mom and #me #doctorate #philosophy http://t.co/jmdU7eC4M1</TEXT>
+</TimeML>

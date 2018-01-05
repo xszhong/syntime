@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>test_183.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2013-02-22">2013-02-22</TIMEX3></DCT>
+<TEXT>
+Surf the Vinyasa Wave at Pure Yoga NAC with Simon Park on <TIMEX3 tid="t1" type="DATE" value="2013-04-05">5</TIMEX3>-<TIMEX3 tid="t2" type="DATE" value="2013-04-07">7 April</TIMEX3> http://t.co/943dArPfCf</TEXT>
+</TimeML>

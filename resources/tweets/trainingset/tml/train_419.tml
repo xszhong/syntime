@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>train_419.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2014-04-23">2014-04-23</TIMEX3></DCT>
+<TEXT>
+Catch #fnnsdd5 happening <TIMEX3 tid="t1" type="TIME" value="2014-04-26-WXX-6T16:30">this Sat, 430pm</TIMEX3> at Vivo Amphitheatre. Free entry. Seats limited to first 800 only! Don't miss it!! RT!</TEXT>
+</TimeML>

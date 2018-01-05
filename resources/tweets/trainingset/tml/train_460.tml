@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>train_460.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2014-08-25">2014-08-25</TIMEX3></DCT>
+<TEXT>
+It's been a wonderful <TIMEX3 tid="t1" type="DURATION" value="P1M">month</TIMEX3> having you guys around in the office. Going to miss both of you! Good luck... http://t.co/xRM6nZWy5t</TEXT>
+</TimeML>

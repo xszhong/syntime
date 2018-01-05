@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>train_321.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2014-12-22">2014-12-22</TIMEX3></DCT>
+<TEXT>
+You're often the one who waits until the absolute <TIMEX3 tid="t1" type="TIME" value="2014-12-21TXX">last minute</TIMEX3> ... More for Aries http://t.co/vvlWmabjK3</TEXT>
+</TimeML>

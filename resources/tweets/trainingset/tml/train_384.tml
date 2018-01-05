@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>train_384.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2014-06-30">2014-06-30</TIMEX3></DCT>
+<TEXT>
+Luxola is the one of the larget online cosmetics and skincare store in the Southeast Asia offering <TIMEX3 tid="t1" type="DATE" value="2014-07-01">next day</TIMEX3>... http://t.co/E64NDGWA8n</TEXT>
+</TimeML>

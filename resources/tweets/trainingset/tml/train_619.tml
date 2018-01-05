@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>train_619.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2014-08-26">2014-08-26</TIMEX3></DCT>
+<TEXT>
+Junior Underwater photographers, budding photographers in KL, Malaysia. Join us, <TIMEX3 tid="t1" type="DATE" value="2014-W35-WE">this weekend</TIMEX3> for a LIQUID ART... http://t.co/7VuPXiYSDL</TEXT>
+</TimeML>

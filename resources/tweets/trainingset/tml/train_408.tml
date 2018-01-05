@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>train_408.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2014-05-08">2014-05-08</TIMEX3></DCT>
+<TEXT>
+SDD Vol.05 Finals is happening <TIMEX3 tid="t1" type="TIME" value="2014-05-10-WXX-6T19:00">this Sat,7pm</TIMEX3> at Kallang Theatre. Rem to print out the e-ticket for admission!</TEXT>
+</TimeML>

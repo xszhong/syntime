@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>train_260.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2014-07-06">2014-07-06</TIMEX3></DCT>
+<TEXT>
+#HiCollage @fotorusofficial <TIMEX3 tid="t1" type="DATE" value="2014-07-W27">THE WEEK</TIMEX3> THAT WAS. MY KIND OF GAME UNO CHOCOLATES. KARAOKE <TIMEX3 tid="t2" type="TIME" value="2014-07-06TNI">NIGHT</TIMEX3> WITH CB... http://t.co/0HExl3ak6V</TEXT>
+</TimeML>

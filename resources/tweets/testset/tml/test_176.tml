@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>test_176.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2015-03-31">2015-03-31</TIMEX3></DCT>
+<TEXT>
+Beautiful <TIMEX3 tid="t1" type="DATE" value="XXXX-XX-XX">day</TIMEX3> although it was drizzling while i was swimming just <TIMEX3 tid="t2" type="DATE" value="PRESENT_REF">now</TIMEX3>. Completed 40laps in <TIMEX3 tid="t3" type="DURATION" value="PT1H">1hr</TIMEX3>... https://t.co/1YhwFC2iU5</TEXT>
+</TimeML>

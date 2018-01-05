@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>train_96.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2013-07-11">2013-07-11</TIMEX3></DCT>
+<TEXT>
+@lorenzo99 Oh my gosh... Sexiest MotoGP man ever?? Rise of The Machine! Haha.. :) Good to be realistic abt yr injury.. All the best <TIMEX3 tid="t1" type="DATE" value="2013-W28-WE">weekend</TIMEX3>!</TEXT>
+</TimeML>

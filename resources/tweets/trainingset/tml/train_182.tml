@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>train_182.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2014-06-02">2014-06-02</TIMEX3></DCT>
+<TEXT>
+UBER PROUD OF SNUFFY AS A LEGIT SHANG LOL FINALLY SPENT <TIMEX3 tid="t1" type="DURATION" value="P1D">A DAY</TIMEX3> WITH SENTIMENTAL BEBE CIRCA 2K8! @... http://t.co/SA1tmIfAN1</TEXT>
+</TimeML>

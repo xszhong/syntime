@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>train_737.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2015-03-22">2015-03-22</TIMEX3></DCT>
+<TEXT>
+Me: I hope my <TIMEX3 tid="t1" type="DATE" value="FUTURE_REF">future</TIMEX3> dont watch soccer Bff: Good luck having a pussy as a husband Me: Im a dick wat</TEXT>
+</TimeML>

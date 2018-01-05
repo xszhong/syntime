@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>train_625.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2014-05-04">2014-05-04</TIMEX3></DCT>
+<TEXT>
+Options Studio Oxley Rise is full on <TIMEX3 tid="t1" type="DATE" value="2014-05-04-WXX-7">a Sunday</TIMEX3>! Join our 1-on-1 Private Class to get faster results. Email us at... http://t.co/9nPhKeEyco</TEXT>
+</TimeML>

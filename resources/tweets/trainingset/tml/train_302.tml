@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>train_302.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2012-05-15">2012-05-15</TIMEX3></DCT>
+<TEXT>
+Starts work at <TIMEX3 tid="t1" type="TIME" value="2012-05-15T:07:30">7.30am</TIMEX3> until <TIMEX3 tid="t2" type="DATE" value="PRESENT_REF">now</TIMEX3>, finally can eat my breakfast in peace. Thank god for coffee. http://t.co/9rpqNRcR</TEXT>
+</TimeML>

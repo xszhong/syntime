@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>test_165.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2011-11-26">2011-11-26</TIMEX3></DCT>
+<TEXT>
+@mepangilinan hello!! :) how's your <TIMEX3 tid="t1" type="DATE" value="2011-11-26-WXX-6">Saturday</TIMEX3> been? Did yoga classes <TIMEX3 tid="t2" type="DATE" value="2011-11-26">today</TIMEX3>? We will leave that as a surprise!</TEXT>
+</TimeML>

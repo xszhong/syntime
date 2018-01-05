@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>test_87.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2013-10-18">2013-10-18</TIMEX3></DCT>
+<TEXT>
+Who's going to 'Anti-aging Yoga' with Prakash Singh Bisht <TIMEX3 tid="t1" type="DATE" value="2013-10-19">19</TIMEX3>-<TIMEX3 tid="t2" type="DATE" value="2013-10-20">20 Oct</TIMEX3> at Chevron House? http://t.co/AOEfCGWaNs</TEXT>
+</TimeML>

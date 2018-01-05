@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>train_451.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2014-12-08">2014-12-08</TIMEX3></DCT>
+<TEXT>
+OLD HOLLYWOOD GLAM WEDDING OF DINO AND NICOLE HAPPY <TIMEX3 tid="t1" type="DURATION" value="P6Y">6 YRS</TIMEX3> GUYS! MISSING MAH GURLS! #timehop @... http://t.co/QdNwPkeDXK</TEXT>
+</TimeML>

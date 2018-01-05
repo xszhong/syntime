@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>train_635.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2014-10-05">2014-10-05</TIMEX3></DCT>
+<TEXT>
+Just completed a 3.59 km run - 1st 50 mile <TIMEX3 tid="t1" type="DURATION" value="P1W">week</TIMEX3> ever! :D Ran with 2 Gurkhas for abit at fast speeds ... http://t.co/DF7oi6iYTf #RunKeeper</TEXT>
+</TimeML>

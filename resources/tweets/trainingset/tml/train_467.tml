@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>train_467.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2014-04-27">2014-04-27</TIMEX3></DCT>
+<TEXT>
+The Cover of Seychelles Unexpected Treasure was chosen by National Geographic <TIMEX3 tid="t1" type="SET" value="P1D">Daily</TIMEX3> Dozen on <TIMEX3 tid="t2" type="DATE" value="2014-04-22">22nd April 2014</TIMEX3> and... http://t.co/oKFtn9Ul6y</TEXT>
+</TimeML>

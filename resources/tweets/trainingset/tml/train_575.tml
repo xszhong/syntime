@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>train_575.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2014-12-31">2014-12-31</TIMEX3></DCT>
+<TEXT>
+| Celebrating <TIMEX3 tid="t1" type="DATE" value="2015-XX-XX">the start of 2015</TIMEX3> at the float!! Is anyone here as well? Waiting for Sun Yanzi and... http://t.co/EdcET5UxEf</TEXT>
+</TimeML>

@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>train_115.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2014-12-07">2014-12-07</TIMEX3></DCT>
+<TEXT>
+You hurt me once, shame on you. You hurt me twice, shame on me. You hurt me three times, I'm stupid. You hurt me four times, I'm retarded.</TEXT>
+</TimeML>

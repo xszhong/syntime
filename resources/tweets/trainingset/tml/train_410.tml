@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>train_410.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2015-04-08">2015-04-08</TIMEX3></DCT>
+<TEXT>
+Skype's real-time translation tool <TIMEX3 tid="t1" type="DATE" value="PRESENT_REF">now</TIMEX3> speaks Mandarin and Italian #tech http://t.co/VaBFy0orfu</TEXT>
+</TimeML>

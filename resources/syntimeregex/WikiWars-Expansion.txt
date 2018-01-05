@@ -1,0 +1,10 @@
+[TIME_UNIT_REGEX]	time|period('?s)?|age('?s)?|holiday('?s)?|season('?s)?|date('?s)?|moment('?s)?|anniversary|anniversaries
+
+[TIMELINE_REGEX]	sometime|shortly
+
+[HOLIDAY_REGEX]	D-Day|World War I|Gandhian Era|Diem era|Lunar new year
+
+[PREFIX_REGET_1]	same|only|any|little|short|many|just|present|former|single|all|roughly|full|extra|mere
+[PREFIX_REGEX_2]	duration|part|rest|amount
+
+[SUFFIX_REGEX]	forwards?|afterwards?
