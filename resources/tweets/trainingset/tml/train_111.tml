@@ -1,7 +1,0 @@
-<?xml version="1.0" ?>
-<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
-<DOCID>train_111.tml</DOCID>
-<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2015-04-18">2015-04-18</TIMEX3></DCT>
-<TEXT>
-<TIMEX3 tid="t1" type="TIME" value="2015-04-18TNI">Tonight</TIMEX3>'s shoot Cr: @i.shootandrun It was a fun photoshoot and an even better catch up with my photographer frien... http://t.co/d3yHtENcPj</TEXT>
-</TimeML>

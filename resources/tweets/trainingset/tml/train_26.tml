@@ -1,7 +1,0 @@
-<?xml version="1.0" ?>
-<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
-<DOCID>train_26.tml</DOCID>
-<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2015-03-01">2015-03-01</TIMEX3></DCT>
-<TEXT>
-@Joojookxy No it isn't. But that's kinda what happens when one doesn't eat for <TIMEX3 tid="t1" type="DURATION" value="PXD">days</TIMEX3> and nothing goes in his mouth but beer. @Hyongt gets it</TEXT>
-</TimeML>

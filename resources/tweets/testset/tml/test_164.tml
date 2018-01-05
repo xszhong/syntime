@@ -1,7 +1,0 @@
-<?xml version="1.0" ?>
-<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
-<DOCID>test_164.tml</DOCID>
-<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2013-10-09">2013-10-09</TIMEX3></DCT>
-<TEXT>
-Check out the benefits of Yoga through this diagram and sign up for your free Yoga class <TIMEX3 tid="t1" type="DATE" value="PRESENT_REF">now</TIMEX3>! http://t.co/LYubLiPLLU http://t.co/MtN4n5WyKh</TEXT>
-</TimeML>

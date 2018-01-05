@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>train_196.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2013-03-23">2013-03-23</TIMEX3></DCT>
+<TEXT>
+To celebrate <TIMEX3 tid="t1" type="DATE" value="2013-SP">start of spring</TIMEX3> In <TIMEX3 tid="t2" type="DATE" value="2013-WI">winter</TIMEX3> coat with gloves on terrace in Amsterdam... Ridiculous
+</TEXT>
+</TimeML>

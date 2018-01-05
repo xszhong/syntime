@@ -1,7 +1,0 @@
-<?xml version="1.0" ?>
-<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
-<DOCID>train_657.tml</DOCID>
-<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2015-02-07">2015-02-07</TIMEX3></DCT>
-<TEXT>
-Ran with Zheng Da and Dickson at Clementi Stadium after the talk. I did 2 x 2.4km in abt <TIMEX3 tid="t1" type="TIME" value="2015-02-07T09:12">9:12</TIMEX3>, <TIMEX3 tid="t2" type="DURATION" value="PT9M">9 mins</TIMEX3> rest, <TIMEX3 tid="t3" type="TIME" value="2015-02-07T10:12">10:12</TIMEX3>+. Was aiming for <TIMEX3 tid="t4" type="TIME" value="2015-02-07T09:00">9:00</TIMEX3>, <TIMEX3 tid="t5" type="TIME" value="2015-02-07T09:30">9:30</TIMEX3></TEXT>
-</TimeML>

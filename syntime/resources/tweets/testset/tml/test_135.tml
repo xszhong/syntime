@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>test_135.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2014-11-24">2014-11-24</TIMEX3></DCT>
+<TEXT>
+First photo shooting after <TIMEX3 tid="t1" type="DURATION" value="PXM">several months</TIMEX3> couldn't shoot properly Location: rooftop of a... http://t.co/Kh4vd9x8I0
+</TEXT>
+</TimeML>

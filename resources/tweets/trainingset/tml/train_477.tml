@@ -1,7 +1,0 @@
-<?xml version="1.0" ?>
-<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
-<DOCID>train_477.tml</DOCID>
-<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2014-03-20">2014-03-20</TIMEX3></DCT>
-<TEXT>
-@amyliaz I <TIMEX3 tid="t1" type="DATE" value="PAST_REF">recently</TIMEX3> went to talk to someone from SGH and if successful, I will quit and join them.</TEXT>
-</TimeML>

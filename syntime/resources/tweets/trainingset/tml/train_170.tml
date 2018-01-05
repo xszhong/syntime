@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>train_170.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2014-08-25">2014-08-25</TIMEX3></DCT>
+<TEXT>
+why does the fire alarm always ring at <TIMEX3 tid="t1" type="TIME" value="2014-08-25T03:00">3am</TIMEX3> r u frickin kidding me I'M GOING TO SLEEP <TIMEX3 tid="t2" type="DATE" value="PRESENT_REF">NOW</TIMEX3> BYE
+</TEXT>
+</TimeML>

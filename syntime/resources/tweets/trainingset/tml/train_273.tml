@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>train_273.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2014-01-29">2014-01-29</TIMEX3></DCT>
+<TEXT>
+Deep South in <TIMEX3 tid="t1" type="DATE" value="2014-WI">winter</TIMEX3> storm emergency. Stay safe my friends. http://t.co/dqSmJYDOcg
+</TEXT>
+</TimeML>

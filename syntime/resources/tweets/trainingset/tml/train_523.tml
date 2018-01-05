@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>train_523.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2015-02-06">2015-02-06</TIMEX3></DCT>
+<TEXT>
+Photo: After her <TIMEX3 tid="t1" type="SET" value="P1W">weekly</TIMEX3> bath. #pandora #pandorasg #pandorabracelet http://t.co/NVZccgx6yQ
+</TEXT>
+</TimeML>

@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>train_621.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2015-02-03">2015-02-03</TIMEX3></DCT>
+<TEXT>
+Two of my works is up at the Photo Republic Exhibition <TIMEX3 tid="t1" type="DATE" value="2015-XX-XX">2015</TIMEX3>! Do drop by the Gallery, next to The Reel Room (Republi... http://t.co/ubUxNEdFdR
+</TEXT>
+</TimeML>

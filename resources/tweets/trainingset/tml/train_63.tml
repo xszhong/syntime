@@ -1,7 +1,0 @@
-<?xml version="1.0" ?>
-<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
-<DOCID>train_63.tml</DOCID>
-<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2013-11-03">2013-11-03</TIMEX3></DCT>
-<TEXT>
-this is how you do it , all in under <TIMEX3 tid="t1" type="DURATION" value="PT10M">10 minutes</TIMEX3> ! #charcoal #fire #barbeque #bbq http://t.co/EZ1D5a1uVG</TEXT>
-</TimeML>

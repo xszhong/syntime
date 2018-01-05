@@ -1,7 +1,0 @@
-<?xml version="1.0" ?>
-<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
-<DOCID>test_34.tml</DOCID>
-<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2011-07-27">2011-07-27</TIMEX3></DCT>
-<TEXT>
-#PureYoga SG -Join Arun in Master Alignment Workshops in <TIMEX3 tid="t1" type="DATE" value="2011-09">Sep</TIMEX3> @ Pure Yoga Ngee Ann City. http://bit.ly/q8FGD1</TEXT>
-</TimeML>

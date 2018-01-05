@@ -1,7 +1,0 @@
-<?xml version="1.0" ?>
-<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
-<DOCID>test_102.tml</DOCID>
-<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2014-09-30">2014-09-30</TIMEX3></DCT>
-<TEXT>
-Tick-tock! Applications for the School Green Awards <TIMEX3 tid="t1" type="DATE" value="2014">2014</TIMEX3> close <TIMEX3 tid="t2" type="DATE" value="2014-09-30">today</TIMEX3> at <TIMEX3 tid="t3" type="TIME" value="2014-09-30T23:59">11:59pm</TIMEX3>! Remember to submit your entries... http://t.co/FrfrPTk7YA</TEXT>
-</TimeML>

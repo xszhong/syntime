@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>train_716.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2013-08-16">2013-08-16</TIMEX3></DCT>
+<TEXT>
+:: Her fav place nw for a short nap. Then after <TIMEX3 tid="t1" type="TIME" value="2013-08-16T12:00">12am</TIMEX3>, she'll back to her wondering around routine :: @... http://t.co/heyHAxAFva
+</TEXT>
+</TimeML>

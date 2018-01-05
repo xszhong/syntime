@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>test_166.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2014-12-22">2014-12-22</TIMEX3></DCT>
+<TEXT>
+Our office will be closed for the <TIMEX3 tid="t1" type="DATE" value="2014-12-22">festive season</TIMEX3> from <TIMEX3 tid="t2" type="DATE" value="2014-12-24">24 December 2014</TIMEX3> to <TIMEX3 tid="t3" type="DATE" value="2015-01-01">1 January 2015</TIMEX3>. We will resume... http://t.co/SngS6dvgSr
+</TEXT>
+</TimeML>

@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>train_620.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2015-03-26">2015-03-26</TIMEX3></DCT>
+<TEXT>
+CHARLIE BROWNS A VIP <TIMEX3 tid="t1" type="DATE" value="PRESENT_REF">NOW</TIMEX3>! LOVING IKEAS VEGAN PIZZA MEDALLION STUFF WHILE I STILL HAVE THE GUT TO POST... https://t.co/bOjmp6QNRW
+</TEXT>
+</TimeML>

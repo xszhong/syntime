@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>train_329.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2015-02-25">2015-02-25</TIMEX3></DCT>
+<TEXT>
+#HiCollage @fotorusofficial ALPINE STITCH COCK. <TIMEX3 tid="t1" type="DURATION" value="PT2H">2.5 HRS</TIMEX3> OF TREKKING UP THE AUSTRIAN ALPS TOOK HALF AN... https://t.co/IrstDbGrsV
+</TEXT>
+</TimeML>

@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>train_117.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2013-04-10">2013-04-10</TIMEX3></DCT>
+<TEXT>
+Welcome @LooseJointny to Singapore !! He's gonna be judging SDD Vol. 4 <TIMEX3 tid="t1" type="TIME" value="2013-04-13-WXX-6T19:00">this Sat, 7pm</TIMEX3> at Kallang Theatre. #fnnsdd4
+</TEXT>
+</TimeML>

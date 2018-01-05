@@ -1,7 +1,0 @@
-<?xml version="1.0" ?>
-<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
-<DOCID>train_566.tml</DOCID>
-<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2014-06-16">2014-06-16</TIMEX3></DCT>
-<TEXT>
-| Cycling adventure <TIMEX3 tid="t1" type="DATE" value="2014-06-16">today</TIMEX3> w this crazy babes surprisingly saw many animals since there were fewer... http://t.co/asD1mCW2lr</TEXT>
-</TimeML>

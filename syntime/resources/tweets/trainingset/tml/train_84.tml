@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>train_84.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2014-12-21">2014-12-21</TIMEX3></DCT>
+<TEXT>
+Survived <TIMEX3 tid="t1" type="DURATION" value="P7D">7Days</TIMEX3> 6Nights in Thailand, Chiang Mai and Bangkok, and <TIMEX3 tid="t2" type="DURATION" value="PTXH">a few hours</TIMEX3> in Myanmar and Laos.
+</TEXT>
+</TimeML>

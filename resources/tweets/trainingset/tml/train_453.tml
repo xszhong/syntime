@@ -1,7 +1,0 @@
-<?xml version="1.0" ?>
-<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
-<DOCID>train_453.tml</DOCID>
-<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2015-02-22">2015-02-22</TIMEX3></DCT>
-<TEXT>
-12 Zodiac Animals On CNY <TIMEX3 tid="t1" type="DURATION" value="P1D">day 2</TIMEX3>, we gathered at my aunt's house for a short photo-taking session of the 12 zodiac a... http://t.co/LEL5n5w5RM</TEXT>
-</TimeML>

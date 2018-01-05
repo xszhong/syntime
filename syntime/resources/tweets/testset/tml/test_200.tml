@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>test_200.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2011-10-03">2011-10-03</TIMEX3></DCT>
+<TEXT>
+The phone system at Pure Yoga SG will be temporarily unavailable from <TIMEX3 tid="t1" type="TIME" value="2011-10-03T22:00">3 Oct 10pm</TIMEX3> to <TIMEX3 tid="t2" type="TIME" value="2011-10-04T7:30">4 Oct 7.30am</TIMEX3>. Apologies for any inconvenience caused.
+</TEXT>
+</TimeML>

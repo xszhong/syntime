@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>train_586.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2014-06-13">2014-06-13</TIMEX3></DCT>
+<TEXT>
+<TIMEX3 tid="t1" type="DATE" value="2014-06-13-WXX-5">FRIDAY the 13th</TIMEX3>... HOW YOU LIKE ME <TIMEX3 tid="t2" type="DATE" value="PRESENT_REF">NOW</TIMEX3>. Old technique with a DASH of Creativity. ( Reverse Ring Macro ) We are... http://t.co/mEyc9jDRbn
+</TEXT>
+</TimeML>

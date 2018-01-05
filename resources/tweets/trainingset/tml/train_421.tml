@@ -1,7 +1,0 @@
-<?xml version="1.0" ?>
-<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
-<DOCID>train_421.tml</DOCID>
-<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2013-09-26">2013-09-26</TIMEX3></DCT>
-<TEXT>
-Finally no school and work <TIMEX3 tid="t1" type="DATE" value="2013-09-27">tomorrow</TIMEX3> omg. <TIMEX3 tid="t2" type="DATE" value="2013-09-W39">This week</TIMEX3> had been crazily packed so glad it's over. I got long <TIMEX3 tid="t3" type="DATE" value="2013-W39-WE">weekend</TIMEX3> yay!</TEXT>
-</TimeML>

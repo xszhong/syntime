@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>train_407.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2013-08-20">2013-08-20</TIMEX3></DCT>
+<TEXT>
+2,100 children go missing <TIMEX3 tid="t1" type="SET" value="P1D">every day</TIMEX3>. 1 child <TIMEX3 tid="t2" type="SET" value="PT40S">every 40 seconds</TIMEX3>. Does a sexual predator threaten your family? http://t.co/TDv0ZiGp2s
+</TEXT>
+</TimeML>

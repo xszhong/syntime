@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>test_54.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2015-04-21">2015-04-21</TIMEX3></DCT>
+<TEXT>
+Volunteers from Have a Heart <TIMEX3 tid="t1" type="DURATION" value="P1D">Day</TIMEX3> joining in the Recycling Drive on <TIMEX3 tid="t2" type="DATE" value="2015-04-12">12 April 2015</TIMEX3>! http://t.co/YBxqXfj60A
+</TEXT>
+</TimeML>

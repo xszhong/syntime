@@ -1,7 +1,0 @@
-<?xml version="1.0" ?>
-<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
-<DOCID>train_195.tml</DOCID>
-<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2014-01-17">2014-01-17</TIMEX3></DCT>
-<TEXT>
-Singapore Dance Delight Vol. 5 coming at you! Prelims: <TIMEX3 tid="t1" type="DATE" value="2014-04-26">26 April 2014</TIMEX3> | Finals: <TIMEX3 tid="t2" type="DATE" value="2014-05-10">10 May 2014</TIMEX3> http://t.co/Ol674G0kRe</TEXT>
-</TimeML>

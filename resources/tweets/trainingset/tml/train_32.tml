@@ -1,7 +1,0 @@
-<?xml version="1.0" ?>
-<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
-<DOCID>train_32.tml</DOCID>
-<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2015-01-31">2015-01-31</TIMEX3></DCT>
-<TEXT>
-Saw Combat Engineers running at a part of Macritchie Reservoir <TIMEX3 tid="t1" type="DATE" value="2015-01-30">yesterday</TIMEX3> and saw NUS X-Country and LTA Lee stretching at Macritchie <TIMEX3 tid="t2" type="DATE" value="2015-01-31">tdy</TIMEX3>.</TEXT>
-</TimeML>

@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>train_145.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2015-02-08">2015-02-08</TIMEX3></DCT>
+<TEXT>
+3C Shopping at Guang Hua Digital Plaza in Taipei: I had a chance to visit Taipei <TIMEX3 tid="t1" type="DATE" value="2014">late last year</TIMEX3> during my holi... http://t.co/keFUsKN013
+</TEXT>
+</TimeML>

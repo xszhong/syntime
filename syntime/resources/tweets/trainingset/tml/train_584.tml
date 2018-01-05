@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>train_584.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2012-09-18">2012-09-18</TIMEX3></DCT>
+<TEXT>
+Carrefour to close both outlets by <TIMEX3 tid="t1" type="DATE" value="2012-09">end of the month</TIMEX3> http://t.co/tH8M64Sm
+</TEXT>
+</TimeML>

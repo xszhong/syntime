@@ -1,7 +1,0 @@
-<?xml version="1.0" ?>
-<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
-<DOCID>train_59.tml</DOCID>
-<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2013-05-04">2013-05-04</TIMEX3></DCT>
-<TEXT>
-<TIMEX3 tid="t1" type="DURATION" value="P1D">1 day</TIMEX3> to final paper in NTU. <TIMEX3 tid="t2" type="DURATION" value="P3D">3 days</TIMEX3> more to <TIMEX3 tid="t3" type="DURATION" value="P41D">41 days</TIMEX3> trip to London!</TEXT>
-</TimeML>

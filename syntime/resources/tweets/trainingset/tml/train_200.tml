@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>train_200.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2014-11-07">2014-11-07</TIMEX3></DCT>
+<TEXT>
+Changed my spoilt POSB Card (magnetic strip came out) at Eunos Station Branch. No queue, very fast and good service, free and open till <TIMEX3 tid="t1" type="TIME" value="2014-11-07T20:30">8:30pm</TIMEX3>
+</TEXT>
+</TimeML>

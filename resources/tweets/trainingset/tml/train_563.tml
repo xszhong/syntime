@@ -1,7 +1,0 @@
-<?xml version="1.0" ?>
-<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
-<DOCID>train_563.tml</DOCID>
-<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2014-01-07">2014-01-07</TIMEX3></DCT>
-<TEXT>
-Once again we have the most comprehensive Pilates Certification Course Schedule in Asia. You can join us every... http://t.co/tvmF9te93k</TEXT>
-</TimeML>

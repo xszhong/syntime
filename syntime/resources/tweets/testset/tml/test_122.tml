@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>test_122.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2014-09-24">2014-09-24</TIMEX3></DCT>
+<TEXT>
+Businesses <TIMEX3 tid="t1" type="DATE" value="PRESENT_REF">now</TIMEX3> have a bigger competitive edge with the Singapore Green Labelling Scheme (SGLS), as SEC and China... http://t.co/z0qqm06Ypq
+</TEXT>
+</TimeML>

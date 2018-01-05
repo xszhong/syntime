@@ -1,7 +1,0 @@
-<?xml version="1.0" ?>
-<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
-<DOCID>test_85.tml</DOCID>
-<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2014-10-18">2014-10-18</TIMEX3></DCT>
-<TEXT>
-Having a bmt subway while watching x-men in my favourite turquoise pajamas on cooling <TIMEX3 tid="t1" type="TIME" value="2014-10-18-WXX-6TNI">Sat night</TIMEX3> probably is the loveliest thing</TEXT>
-</TimeML>

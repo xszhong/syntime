@@ -1,7 +1,0 @@
-<?xml version="1.0" ?>
-<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
-<DOCID>test_78.tml</DOCID>
-<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2015-01-14">2015-01-14</TIMEX3></DCT>
-<TEXT>
-Your world may be settling down <TIMEX3 tid="t1" type="DATE" value="PRESENT_REF">now</TIMEX3>, after <TIMEX3 tid="t2" type="DURATION" value="PXD">a few days</TIMEX3> of lunar... More for Libra http://t.co/0WQwA0sfbU</TEXT>
-</TimeML>

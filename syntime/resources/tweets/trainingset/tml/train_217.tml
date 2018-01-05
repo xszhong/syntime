@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>train_217.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2014-10-31">2014-10-31</TIMEX3></DCT>
+<TEXT>
+@Jacqhohanyi lucky loh... <TIMEX3 tid="t1" type="DATE" value="2014-10-W44">This week</TIMEX3> got <TIMEX3 tid="t2" type="DATE" value="2014-W45-WE">weekend next week</TIMEX3> gonna burn <TIMEX3 tid="t3" type="DURATION" value="P6D">6 days</TIMEX3>
+</TEXT>
+</TimeML>

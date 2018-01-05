@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>train_300.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2014-02-20">2014-02-20</TIMEX3></DCT>
+<TEXT>
+From your fashion needs to homeware, Shopguru has it all! Shop with our partner brands <TIMEX3 tid="t1" type="DATE" value="PRESENT_REF">now</TIMEX3> and get your rewards!... http://t.co/D3z1dsIMFp
+</TEXT>
+</TimeML>

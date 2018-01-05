@@ -1,7 +1,0 @@
-<?xml version="1.0" ?>
-<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
-<DOCID>train_174.tml</DOCID>
-<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2015-01-14">2015-01-14</TIMEX3></DCT>
-<TEXT>
-So <TIMEX3 tid="t1" type="DATE" value="2015-01-14">today</TIMEX3> marks <TIMEX3 tid="t2" type="DURATION" value="P1Y">the one year</TIMEX3> mark I've been in the #uk! How time flies... #singapore #London</TEXT>
-</TimeML>

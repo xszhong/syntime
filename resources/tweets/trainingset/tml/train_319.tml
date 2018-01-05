@@ -1,7 +1,0 @@
-<?xml version="1.0" ?>
-<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
-<DOCID>train_319.tml</DOCID>
-<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2015-02-06">2015-02-06</TIMEX3></DCT>
-<TEXT>
-Hey @jibirubar, reserve a table of 4 for me at <TIMEX3 tid="t1" type="TIME" value="2015-02-06T18:00">6pm</TIMEX3>!! Because, #Friday drinks! hehehee... :)</TEXT>
-</TimeML>

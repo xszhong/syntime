@@ -1,7 +1,0 @@
-<?xml version="1.0" ?>
-<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
-<DOCID>train_736.tml</DOCID>
-<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2014-10-23">2014-10-23</TIMEX3></DCT>
-<TEXT>
-<TIMEX3 tid="t1" type="TIME" value="2014-10-23TMO">Morning</TIMEX3>, <TIMEX3 tid="t2" type="TIME" value="2014-10-23TAF">afternoon</TIMEX3> and <TIMEX3 tid="t3" type="TIME" value="2014-10-23TNI">night</TIMEX3> Brigade COC parade rehearsals at Home of the Cobras! Long <TIMEX3 tid="t4" type="DATE" value="XXXX-XX-XX">day</TIMEX3>, left camp at <TIMEX3 tid="t5" type="TIME" value="2014-10-23T05:00">5+am</TIMEX3> and came back at abt <TIMEX3 tid="t6" type="TIME" value="2014-10-23T22:50">2250</TIMEX3>.Survived</TEXT>
-</TimeML>

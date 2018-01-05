@@ -1,7 +1,0 @@
-<?xml version="1.0" ?>
-<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
-<DOCID>train_36.tml</DOCID>
-<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2013-10-08">2013-10-08</TIMEX3></DCT>
-<TEXT>
-:: Our cutiepie : She's <TIMEX3 tid="t1" type="DURATION" value="P16D">16 days old</TIMEX3> look at her chin. Omg. Mcmnkgigit lol :: @ Nadia's Stitchy Home! http://t.co/8QZ6jWQa3P</TEXT>
-</TimeML>

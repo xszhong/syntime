@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>train_426.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2015-03-18">2015-03-18</TIMEX3></DCT>
+<TEXT>
+I'm so proud of myself that I wake up at <TIMEX3 tid="t1" type="TIME" value="2015-03-18T05:00">5am</TIMEX3> sharp from <TIMEX3 tid="t2" type="SET" value="XXXX-WXX-1">every Monday</TIMEX3> to <TIMEX3 tid="t3" type="SET" value="XXXX-WXX-4TMO">Thursday morning</TIMEX3> without getting any help from my mom.
+</TEXT>
+</TimeML>

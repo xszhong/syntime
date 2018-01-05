@@ -1,7 +1,0 @@
-<?xml version="1.0" ?>
-<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
-<DOCID>train_429.tml</DOCID>
-<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2013-04-11">2013-04-11</TIMEX3></DCT>
-<TEXT>
-SDD Vol. 4 Fan Choice Award closes <TIMEX3 tid="t1" type="TIME" value="2013-04-12-WXX-5T23:59">this Fri night, 2359</TIMEX3>!! GET THOSE VOTES IN <TIMEX3 tid="t2" type="DATE" value="PRESENT_REF">NOW</TIMEX3>!! http://t.co/Bhn0dlhzM5 (vote on FB desktop site)</TEXT>
-</TimeML>

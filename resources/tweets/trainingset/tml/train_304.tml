@@ -1,7 +1,0 @@
-<?xml version="1.0" ?>
-<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
-<DOCID>train_304.tml</DOCID>
-<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2014-08-24">2014-08-24</TIMEX3></DCT>
-<TEXT>
-Watched the 76th Singapore Open Track and Field Championships <TIMEX3 tid="t1" type="DATE" value="2014-08-24">tdy</TIMEX3>. 1st time watching smth like this, other than sports <TIMEX3 tid="t2" type="DATE" value="XXXX-XX-XX">day</TIMEX3> relays. Intense</TEXT>
-</TimeML>

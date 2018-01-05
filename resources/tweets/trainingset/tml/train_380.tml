@@ -1,7 +1,0 @@
-<?xml version="1.0" ?>
-<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
-<DOCID>train_380.tml</DOCID>
-<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2015-02-18">2015-02-18</TIMEX3></DCT>
-<TEXT>
-CNY Special Behind the kitchen: Grandma finally taking a break, to drink a cup of water. We are <TIMEX3 tid="t1" type="DATE" value="PRESENT_REF">now</TIMEX3> left with the ... http://t.co/jCQY0tcB3C</TEXT>
-</TimeML>

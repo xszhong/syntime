@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>test_193.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2013-07-29">2013-07-29</TIMEX3></DCT>
+<TEXT>
+<TIMEX3 tid="t1" type="DATE" value="2013-07-29">Today</TIMEX3>, I ask myself if I've really learnt anything significant in school or if there was anything my peers find me assetful for cuz I can't.
+</TEXT>
+</TimeML>

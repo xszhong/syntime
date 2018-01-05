@@ -1,7 +1,0 @@
-<?xml version="1.0" ?>
-<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
-<DOCID>test_53.tml</DOCID>
-<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2012-03-30">2012-03-30</TIMEX3></DCT>
-<TEXT>
-TGIF! Tell us what class you will be heading for to cheers to a great <TIMEX3 tid="t1" type="DATE" value="2012-W13-WE">weekend</TIMEX3> ahead!</TEXT>
-</TimeML>

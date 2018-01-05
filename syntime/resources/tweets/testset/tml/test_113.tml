@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>test_113.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2014-09-26">2014-09-26</TIMEX3></DCT>
+<TEXT>
+With blistered palms, she battled her way to a fourth place finish in Incheon at the 17th Asian Games <TIMEX3 tid="t1" type="DATE" value="2014-XX-XX">2014</TIMEX3>. She... http://t.co/8C36aEdUly
+</TEXT>
+</TimeML>

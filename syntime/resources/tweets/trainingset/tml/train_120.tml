@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>train_120.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2015-02-20">2015-02-20</TIMEX3></DCT>
+<TEXT>
+#HiCollage @fotorusofficial <TIMEX3 tid="t1" type="DURATION" value="P6D">6 DAYS</TIMEX3> TO COMMUNE WITH THE ALPS STARTS <TIMEX3 tid="t2" type="DATE" value="PRESENT_REF">NOW</TIMEX3>! LOVE THE CABIN COUNTRY STYLE... http://t.co/6jfQRvtd3N
+</TEXT>
+</TimeML>

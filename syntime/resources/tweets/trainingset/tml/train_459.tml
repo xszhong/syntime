@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>train_459.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2013-06-28">2013-06-28</TIMEX3></DCT>
+<TEXT>
+Core Suspend Course at Options Studio, Sg (<TIMEX3 tid="t1" type="DATE" value="2013-07-02">2</TIMEX3>-<TIMEX3 tid="t2" type="DATE" value="2013-07-04">4 July 2013</TIMEX3>)! http://t.co/l73EuV1mwP
+</TEXT>
+</TimeML>

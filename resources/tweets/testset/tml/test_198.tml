@@ -1,7 +1,0 @@
-<?xml version="1.0" ?>
-<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
-<DOCID>test_198.tml</DOCID>
-<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2014-12-24">2014-12-24</TIMEX3></DCT>
-<TEXT>
-Singapore Environment Council (SEC) is the appointed agency for <TIMEX3 tid="t1" type="DATE" value="2013">2013</TIMEX3> - <TIMEX3 tid="t2" type="DATE" value="2015">2015</TIMEX3> for outreach to schools on the ABC... http://t.co/R5glequv74</TEXT>
-</TimeML>

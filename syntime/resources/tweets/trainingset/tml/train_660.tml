@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>train_660.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2013-10-23">2013-10-23</TIMEX3></DCT>
+<TEXT>
+<TIMEX3 tid="t1" type="DATE" value="2013-10-18-WXX-5">Friday</TIMEX3> Talk with Vibeke Sorensen, Chair of Arts, Design and Media at NTU Singapore http://t.co/ogCaBWNayt
+</TEXT>
+</TimeML>

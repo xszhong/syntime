@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>test_96.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2014-10-05">2014-10-05</TIMEX3></DCT>
+<TEXT>
+The Singapore Environment Council wishes you and your family Selamat Hari Raya Aidiladha. May you have a blessed... http://t.co/7KNikhjbPF
+</TEXT>
+</TimeML>

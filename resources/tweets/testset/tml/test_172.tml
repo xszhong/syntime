@@ -1,7 +1,0 @@
-<?xml version="1.0" ?>
-<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
-<DOCID>test_172.tml</DOCID>
-<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2013-10-11">2013-10-11</TIMEX3></DCT>
-<TEXT>
-Check out the highlights of Pure Apparel Trunk Show from <TIMEX3 tid="t1" type="TIME" value="2013-10-10TNI">last night</TIMEX3> at Pure Yoga Ngee Ann City! Was you there? http://t.co/NTyLJCdffq</TEXT>
-</TimeML>

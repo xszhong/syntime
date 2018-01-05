@@ -1,7 +1,0 @@
-<?xml version="1.0" ?>
-<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
-<DOCID>train_505.tml</DOCID>
-<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2015-02-05">2015-02-05</TIMEX3></DCT>
-<TEXT>
-Learnt how to use M249, M16, Pecak Silat Thai Boxing and Instinctive shooting from 5th Infantry Division of Thailand <TIMEX3 tid="t1" type="DATE" value="2015-02-04">yesterday</TIMEX3>. Friendly guys</TEXT>
-</TimeML>

@@ -1,7 +1,0 @@
-<?xml version="1.0" ?>
-<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
-<DOCID>train_208.tml</DOCID>
-<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2013-11-01">2013-11-01</TIMEX3></DCT>
-<TEXT>
-If you want to get your <TIMEX3 tid="t1" type="DATE" value="2013-12-25">Christmas</TIMEX3> shopping out of the way early come to our Oxley branch <TIMEX3 tid="t2" type="DATE" value="2013-11-01-WXX-5">this Friday</TIMEX3>, <TIMEX3 tid="t3" type="DATE" value="2013-11-01-WXX-6">Saturday</TIMEX3>... http://t.co/T6c1OLAmxb</TEXT>
-</TimeML>

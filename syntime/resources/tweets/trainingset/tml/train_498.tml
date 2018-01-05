@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>train_498.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2015-03-25">2015-03-25</TIMEX3></DCT>
+<TEXT>
+We queued for slightly <TIMEX3 tid="t1" type="DURATION" value="PT1H">more than an hour</TIMEX3>. Before we reached the guard house of the Parliament house. The queue too... http://t.co/Q8b8WeyYm2
+</TEXT>
+</TimeML>

@@ -1,7 +1,0 @@
-<?xml version="1.0" ?>
-<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
-<DOCID>test_83.tml</DOCID>
-<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2014-07-16">2014-07-16</TIMEX3></DCT>
-<TEXT>
-Sonn gonna end my <TIMEX3 tid="t1" type="DURATION" value="P1W">1 week</TIMEX3> block leave and proceed to my new camp.</TEXT>
-</TimeML>

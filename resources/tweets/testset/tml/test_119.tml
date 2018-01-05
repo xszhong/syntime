@@ -1,7 +1,0 @@
-<?xml version="1.0" ?>
-<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
-<DOCID>test_119.tml</DOCID>
-<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2014-12-09">2014-12-09</TIMEX3></DCT>
-<TEXT>
-The SEC calls upon all parents to have a look at what Disney Junior has in store for your little ones to help... http://t.co/xcKGawRo3P</TEXT>
-</TimeML>

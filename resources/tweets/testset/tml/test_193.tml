@@ -1,7 +1,0 @@
-<?xml version="1.0" ?>
-<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
-<DOCID>test_193.tml</DOCID>
-<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2013-09-18">2013-09-18</TIMEX3></DCT>
-<TEXT>
-We can't wait for our new Yoga studio to open in Shanghai <TIMEX3 tid="t1" type="DATE" value="2013-10">next month</TIMEX3>! Check out the photos from Pure Yoga iapm mall http://t.co/544PdWbHNv</TEXT>
-</TimeML>

@@ -1,7 +1,0 @@
-<?xml version="1.0" ?>
-<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
-<DOCID>train_123.tml</DOCID>
-<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2015-04-04">2015-04-04</TIMEX3></DCT>
-<TEXT>
-Wanna catch the 77th Singapore Open Track and Field at Sports Hub, but procrastinate too much and have loads to catch up on for <TIMEX3 tid="t1" type="DATE" value="2015-04-05">tomorrow</TIMEX3>'s class</TEXT>
-</TimeML>

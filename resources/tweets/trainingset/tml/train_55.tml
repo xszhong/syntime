@@ -1,7 +1,0 @@
-<?xml version="1.0" ?>
-<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
-<DOCID>train_55.tml</DOCID>
-<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2015-04-02">2015-04-02</TIMEX3></DCT>
-<TEXT>
-@FyrzahMcafee hahahaha pizza it is. Wait, arent you gng to start <TIMEX3 tid="t1" type="DURATION" value="P1Y-#3">year 3</TIMEX3> too?</TEXT>
-</TimeML>

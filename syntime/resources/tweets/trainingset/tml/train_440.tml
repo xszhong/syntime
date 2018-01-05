@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>train_440.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2015-03-12">2015-03-12</TIMEX3></DCT>
+<TEXT>
+Lost my SIM card but at least I have my brother's tethered internet for <TIMEX3 tid="t1" type="DATE" value="PRESENT_REF">now</TIMEX3> :P
+</TEXT>
+</TimeML>

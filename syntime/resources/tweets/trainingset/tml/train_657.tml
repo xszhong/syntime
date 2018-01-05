@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>train_657.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2015-04-16">2015-04-16</TIMEX3></DCT>
+<TEXT>
+This Agency's Office Literally Disappears After <TIMEX3 tid="t1" type="DURATION" value="PTXH">Hours</TIMEX3> So You Can't Work Late http://t.co/YDgsu6SkrN http://t.co/6L0QKSnHSi
+</TEXT>
+</TimeML>

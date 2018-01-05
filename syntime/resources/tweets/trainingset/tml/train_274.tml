@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>train_274.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2015-02-11">2015-02-11</TIMEX3></DCT>
+<TEXT>
+@JYHeffect Thanks for coming to Singapore for a concert on <TIMEX3 tid="t1" type="DATE" value="2015-02-11">the day</TIMEX3> when I return from my Europe trip!! Just keep the date as it is ya? Xoxo
+</TEXT>
+</TimeML>

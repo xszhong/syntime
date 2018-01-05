@@ -1,7 +1,0 @@
-<?xml version="1.0" ?>
-<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
-<DOCID>train_438.tml</DOCID>
-<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2014-05-09">2014-05-09</TIMEX3></DCT>
-<TEXT>
-Henry Link (Elite Force) has arrived in Singapore to judge SDD Vol.05! Take his workshop on <TIMEX3 tid="t1" type="DATE" value="2014-05-04-WXX-7">Sunday</TIMEX3>! #fnnsdd5 http://t.co/PgoDnVntz0</TEXT>
-</TimeML>

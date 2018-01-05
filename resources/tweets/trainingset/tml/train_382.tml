@@ -1,7 +1,0 @@
-<?xml version="1.0" ?>
-<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
-<DOCID>train_382.tml</DOCID>
-<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2015-04-18">2015-04-18</TIMEX3></DCT>
-<TEXT>
-Feel sleepy whenever I come across a hard/long question, many times end up sleeping on my bed till <TIMEX3 tid="t1" type="DATE" value="2015-04-19">the next day</TIMEX3> Study without bed nearby?</TEXT>
-</TimeML>

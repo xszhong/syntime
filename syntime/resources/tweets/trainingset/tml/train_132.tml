@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>train_132.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2014-04-30">2014-04-30</TIMEX3></DCT>
+<TEXT>
+First Anatomy, Biomechanics and Posture Analysis Students of OptionsStudio Singapore for <TIMEX3 tid="t1" type="DATE" value="2014-XX-XX">the year 2014</TIMEX3>. http://t.co/8jqsrtfdJB
+</TEXT>
+</TimeML>

@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>train_626.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2013-04-26">2013-04-26</TIMEX3></DCT>
+<TEXT>
+Secretary <TIMEX3 tid="t1" type="DURATION" value="P1W">week</TIMEX3> in Singapore - had lovely lunch with amazing ms Teo, GM of my life #grateful #appreciation http://t.co/GjA5bOiJeA
+</TEXT>
+</TimeML>

@@ -1,7 +1,0 @@
-<?xml version="1.0" ?>
-<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
-<DOCID>test_111.tml</DOCID>
-<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2013-10-16">2013-10-16</TIMEX3></DCT>
-<TEXT>
-Lim Jia Hui has checked in over 13x <TIMEX3 tid="t1" type="DATE" value="2013-10">this month</TIMEX3>! Practice more for a chance to win prizes! http://t.co/ai05Oooo8b http://t.co/1GlVrWTaN7</TEXT>
-</TimeML>

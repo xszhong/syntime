@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>test_39.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2013-10-17">2013-10-17</TIMEX3></DCT>
+<TEXT>
+Join us from <TIMEX3 tid="t1" type="DATE" value="2013-11-02">2</TIMEX3>-<TIMEX3 tid="t2" type="DATE" value="2013-11-22">22 Nov</TIMEX3> at Pure Yoga Ngee Ann City for <TIMEX3 tid="t3" type="DURATION" value="PT200H">200-hr</TIMEX3> Yoga Alliance Accredited Hot Yoga Teacher Training.http://t.co/XOoXhmVpED
+</TEXT>
+</TimeML>

@@ -1,7 +1,0 @@
-<?xml version="1.0" ?>
-<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
-<DOCID>train_414.tml</DOCID>
-<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2015-03-25">2015-03-25</TIMEX3></DCT>
-<TEXT>
-At <TIMEX3 tid="t1" type="TIME" value="2015-03-25T03:00">3am</TIMEX3> in <TIMEX3 tid="t2" type="TIME" value="2015-03-25TMO">the morning</TIMEX3>, my parents drove to pick me up from work. We had planned to visit the Parliament House to pa... http://t.co/m4bVrwnKQ1</TEXT>
-</TimeML>

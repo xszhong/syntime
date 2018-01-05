@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>train_465.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2012-10-17">2012-10-17</TIMEX3></DCT>
+<TEXT>
+Told my mum <TIMEX3 tid="t1" type="TIME" value="2012-10-17TMO">this morning</TIMEX3> that I want to eat mac and cheese. Came home she really made it for me! She's the best. http://t.co/7vTNTQ46
+</TEXT>
+</TimeML>

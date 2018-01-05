@@ -1,7 +1,0 @@
-<?xml version="1.0" ?>
-<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
-<DOCID>train_569.tml</DOCID>
-<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2013-09-24">2013-09-24</TIMEX3></DCT>
-<TEXT>
-LIQUID ART by Imran Ahmad Bin Rayat Ahmad. Kuala Lumpur Photography Festival <TIMEX3 tid="t1" type="DATE" value="2013-XX-XX">2013</TIMEX3> (KLPF2013), Malaysia Mid... http://t.co/72FLyQpKOK</TEXT>
-</TimeML>

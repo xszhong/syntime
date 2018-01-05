@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>train_361.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2014-07-20">2014-07-20</TIMEX3></DCT>
+<TEXT>
+YES NO MORE WORK. GONNA FINALLY TRAIN. TRAIN LIKE CRAZY FOR <TIMEX3 tid="t1" type="DURATION" value="P3W">THE LAST 3 WEEKS</TIMEX3>
+</TEXT>
+</TimeML>

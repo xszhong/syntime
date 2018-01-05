@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>train_363.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2014-08-19">2014-08-19</TIMEX3></DCT>
+<TEXT>
+#PechaKucha x INSEAD <TIMEX3 tid="t1" type="DATE" value="2014-XX-XX">2014</TIMEX3> brings inspirational talks from entrepreneurs, top educators, and social impact leaders http://t.co/wAMs1sp3KI
+</TEXT>
+</TimeML>

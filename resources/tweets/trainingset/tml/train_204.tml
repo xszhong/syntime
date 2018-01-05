@@ -1,7 +1,0 @@
-<?xml version="1.0" ?>
-<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
-<DOCID>train_204.tml</DOCID>
-<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2014-03-29">2014-03-29</TIMEX3></DCT>
-<TEXT>
-Shopguru brings you the most rewarding shopping experience. Sign up at http://t.co/MsoZPiR5Y1 <TIMEX3 tid="t1" type="DATE" value="PRESENT_REF">now</TIMEX3> for more deals. http://t.co/ag1KRgUxbv</TEXT>
-</TimeML>

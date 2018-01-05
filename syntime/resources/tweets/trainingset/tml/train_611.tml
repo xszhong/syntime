@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>train_611.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2012-09-14">2012-09-14</TIMEX3></DCT>
+<TEXT>
+Olivia Briggs Wins <TIMEX3 tid="t1" type="DATE" value="2012-XX-XX">2012</TIMEX3> Jane Chambers Award for Playwriting http://t.co/Meul2Uzu
+</TEXT>
+</TimeML>

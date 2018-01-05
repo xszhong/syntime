@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>train_462.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2014-02-08">2014-02-08</TIMEX3></DCT>
+<TEXT>
+<TIMEX3 tid="t1" type="TIME" value="2014-02-08TEV">Evening</TIMEX3> Delight. Nikon D4, 16mm F2.8 Aldabra Atoll, Seychelles... IMPRINTS <TIMEX3 tid="t2" type="DATE" value="2014-XX-XX">2014</TIMEX3>... for your office, resort or... http://t.co/Ns9hP7TjkB
+</TEXT>
+</TimeML>

@@ -1,7 +1,0 @@
-<?xml version="1.0" ?>
-<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
-<DOCID>train_661.tml</DOCID>
-<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2012-04-23">2012-04-23</TIMEX3></DCT>
-<TEXT>
-ANDA <TIMEX3 tid="t1" type="DATE" value="2012-04-20-WXX-5">Friday</TIMEX3> Talk: Ervin Han VP of Development for Scrawl Studios http://t.co/1WLyqnql</TEXT>
-</TimeML>

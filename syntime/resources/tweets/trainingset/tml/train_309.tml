@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>train_309.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2013-03-20">2013-03-20</TIMEX3></DCT>
+<TEXT>
+Away from Singapore from <TIMEX3 tid="t1" type="DATE" value="2013-05-17">17th May</TIMEX3> to <TIMEX3 tid="t2" type="DATE" value="2013-06-17">17th June</TIMEX3> to London and <TIMEX3 tid="t3" type="DATE" value="2013-06-21">21st June</TIMEX3> to <TIMEX3 tid="t4" type="DATE" value="2013-06-26">26th June</TIMEX3> to Taipei!
+</TEXT>
+</TimeML>

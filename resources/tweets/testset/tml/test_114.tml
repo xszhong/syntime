@@ -1,7 +1,0 @@
-<?xml version="1.0" ?>
-<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
-<DOCID>test_114.tml</DOCID>
-<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2014-10-23">2014-10-23</TIMEX3></DCT>
-<TEXT>
-People in Singapore wasted almost 800,000 tonnes of food in <TIMEX3 tid="t1" type="DATE" value="2013">2013</TIMEX3>. That's a meal <TIMEX3 tid="t2" type="DURATION" value="P1D">a day</TIMEX3> for every person in... http://t.co/ORo9z7pcWt</TEXT>
-</TimeML>

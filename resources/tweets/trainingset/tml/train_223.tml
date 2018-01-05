@@ -1,7 +1,0 @@
-<?xml version="1.0" ?>
-<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
-<DOCID>train_223.tml</DOCID>
-<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2014-04-30">2014-04-30</TIMEX3></DCT>
-<TEXT>
-SDD Finals tickets selling fast!! Only 150 stall seats left! Get yours <TIMEX3 tid="t1" type="DATE" value="PRESENT_REF">now</TIMEX3>: http://t.co/L6oyfeSCDv #fnnsdd5</TEXT>
-</TimeML>

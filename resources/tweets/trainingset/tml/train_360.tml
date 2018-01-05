@@ -1,7 +1,0 @@
-<?xml version="1.0" ?>
-<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
-<DOCID>train_360.tml</DOCID>
-<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2013-05-20">2013-05-20</TIMEX3></DCT>
-<TEXT>
-<TIMEX3 tid="t1" type="DURATION" value="P1D">Day</TIMEX3> off in center of the world (= Amsterdam) results in a blissful email-clutter-in-inbox free <TIMEX3 tid="t2" type="DURATION" value="P1D">day</TIMEX3>. #happywhitmonday</TEXT>
-</TimeML>

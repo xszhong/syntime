@@ -1,7 +1,0 @@
-<?xml version="1.0" ?>
-<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
-<DOCID>train_536.tml</DOCID>
-<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2014-08-30">2014-08-30</TIMEX3></DCT>
-<TEXT>
-Samsung COMEX <TIMEX3 tid="t1" type="DATE" value="2014-XX-XX">2014</TIMEX3>: Do not miss the Samsung deals at COMEX <TIMEX3 tid="t2" type="DATE" value="2014-XX-XX">2014</TIMEX3> at Suntec Singapore Convention and Exhibition ... http://t.co/yj9HNeUsR4</TEXT>
-</TimeML>

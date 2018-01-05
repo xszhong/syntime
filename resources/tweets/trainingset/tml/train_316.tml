@@ -1,7 +1,0 @@
-<?xml version="1.0" ?>
-<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
-<DOCID>train_316.tml</DOCID>
-<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2014-07-02">2014-07-02</TIMEX3></DCT>
-<TEXT>
-Menlook is <TIMEX3 tid="t1" type="DATE" value="PRESENT_REF">now</TIMEX3> on ShopGuru eShops! It has brands like Ted Baker, Lacoste, Kenzo, Ralph Lauren, Tommy Hilgifer and... http://t.co/qycHxPSVXa</TEXT>
-</TimeML>

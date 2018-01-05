@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>train_66.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2015-01-24">2015-01-24</TIMEX3></DCT>
+<TEXT>
+Another navy beauty with crochet details on point, coming up <TIMEX3 tid="t1" type="DATE" value="2015-01-25">tomorrow</TIMEX3> at <TIMEX3 tid="t2" type="TIME" value="2015-01-25T12:00">12pm</TIMEX3>! Intricate crochet detailing on the... http://t.co/EsacW5nYzS
+</TEXT>
+</TimeML>

@@ -1,7 +1,0 @@
-<?xml version="1.0" ?>
-<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
-<DOCID>test_189.tml</DOCID>
-<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2015-02-02">2015-02-02</TIMEX3></DCT>
-<TEXT>
-You might step away from the spotlight <TIMEX3 tid="t1" type="DATE" value="2015-02-02">today</TIMEX3> because you know ... More for Libra http://t.co/0WQwA0sfbU</TEXT>
-</TimeML>

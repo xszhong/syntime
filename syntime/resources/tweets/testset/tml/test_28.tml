@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>test_28.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2015-03-25">2015-03-25</TIMEX3></DCT>
+<TEXT>
+I had such a great time with you <TIMEX3 tid="t1" type="DATE" value="2015-03-25">today</TIMEX3> at the zoo love. So cute you like Dora, always have something... https://t.co/27Y29GSqmF
+</TEXT>
+</TimeML>

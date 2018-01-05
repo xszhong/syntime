@@ -1,7 +1,0 @@
-<?xml version="1.0" ?>
-<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
-<DOCID>train_524.tml</DOCID>
-<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2012-08-20">2012-08-20</TIMEX3></DCT>
-<TEXT>
-Didn't realized I have this many stuff toys on my bed <TIMEX3 tid="t1" type="DATE" value="PRESENT_REF">now</TIMEX3>. No wonder theres always so little space for me to http://t.co/vZ3F12PA</TEXT>
-</TimeML>

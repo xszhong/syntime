@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>train_385.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2014-03-26">2014-03-26</TIMEX3></DCT>
+<TEXT>
+Loving this kind of high street fashion? Shop Romwe clothings at Shopguru for <TIMEX3 tid="t1" type="SET" value="P1D">daily</TIMEX3> new arrivals:... http://t.co/0bg3jh4Zo1
+</TEXT>
+</TimeML>

@@ -1,7 +1,0 @@
-<?xml version="1.0" ?>
-<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
-<DOCID>train_512.tml</DOCID>
-<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2014-08-06">2014-08-06</TIMEX3></DCT>
-<TEXT>
-Rainbow Serpent Festival, there were 30,000 Facebook 'likes' <TIMEX3 tid="t1" type="DATE" value="2012-08-06">2 years ago</TIMEX3> when we had a chat. <TIMEX3 tid="t2" type="DATE" value="PRESENT_REF">Now</TIMEX3> there are 80K ! http://t.co/QiiAI66io3</TEXT>
-</TimeML>

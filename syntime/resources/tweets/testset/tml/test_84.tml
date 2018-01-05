@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>test_84.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2012-05-07">2012-05-07</TIMEX3></DCT>
+<TEXT>
+Congrats to @PureYogaSG on winning the 'Most Luxurious' yoga studio by SHAPE Awards <TIMEX3 tid="t1" type="DATE" value="2012-XX-XX">2012</TIMEX3>! Thanks for your support! http://t.co/gzE4sBd0
+</TEXT>
+</TimeML>

@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>bbc_20130322_1150</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2013-03-22">2013-03-22</TIMEX3></DCT>
+<TEXT>
+
+The last surviving member of the team which first conquered Everest in <TIMEX3 tid="t1" type="DATE" value="2013-03-22">1953</TIMEX3> has died in a Derbyshire nursing home.
+
+George Lowe, 89, died in Ripley on <TIMEX3 tid="t2" type="DATE" value="2013-03-22">Wednesday</TIMEX3> after a long-term illness, with his wife Mary by his side.
+
+New Zealand-born Mr Lowe was part of the team that helped Sir Edmund Hillary and Tenzing Norgay to the summit in <TIMEX3 tid="t3" type="DATE" value="2013-03-22">1953</TIMEX3>.
+
+Family friend and historian Dr Huw Lewis-Jones paid tribute to a "gentle soul and fine climber" who shunned the limelight.
+
+Mr Lowe also took part in the trans-Antarctic expedition of <TIMEX3 tid="t4" type="DATE" value="2013-03-22">1957</TIMEX3>-<TIMEX3 tid="t5" type="DATE" value="2013-03-22">58</TIMEX3>, which made the first successful overland crossing of Antarctica via the South Pole.
+
+He later made expeditions to Greenland, Greece and Ethiopia.
+
+Speaking to the BBC in <TIMEX3 tid="t6" type="DATE" value="2013-03-22">1995</TIMEX3>, Mr Lowe said of his Antarctic adventure: "We estimated we could do it in <TIMEX3 tid="t7" type="DATE" value="2013-03-22">100 days</TIMEX3>, and we got across on <TIMEX3 tid="t8" type="DATE" value="2013-03-22">the 99th day</TIMEX3>.
+
+"There was a great feeling of euphoria from everyone. It had a multiplying effect.
+
+"We were pleased that England and New Zealand knew about it, and we thought that's where it would stop."
+
+He also talked about his "second job" as the group's cameraman, and having to wear four pairs of gloves to work the clockwork camera.
+
+"When there were dramas, there was a split problem. Do you take part in the urgency - or do you record it?" he said.
+
+Dr Lewis-Jones, the former curator at the Scott Polar Research Institute at the University of Cambridge, who first met Mr Lowe in <TIMEX3 tid="t9" type="DATE" value="2013-03-22">2005</TIMEX3>, called him a "hero".
+
+"I don't often use that word but then it is not very often that you get to meet one," he said.
+
+A book of memoirs and photographs from the climb by Mr Lowe, which he worked on with Dr Lewis-Jones, is due to be published in <TIMEX3 tid="t10" type="DATE" value="2013-03-22">May</TIMEX3>.
+
+He said: "Lowe was a brilliant, kind fellow who never sought the limelight... and <TIMEX3 tid="t11" type="DATE" value="2013-03-22">60 years</TIMEX3> on from Everest his achievements deserve wider recognition.
+
+"He was involved in two of the most important explorations of <TIMEX3 tid="t12" type="DATE" value="2013-03-22">the 20th Century</TIMEX3>... yet remained a humble, happy man right to the end... an inspirational lesson to us all."
+
+Before retiring in <TIMEX3 tid="t13" type="DATE" value="2013-03-22">1984</TIMEX3>, Mr Lowe worked as an Inspector of Schools with the Department of Education and Sciences, and he leaves three sons from a previous marriage.
+
+The last British climbing member of the <TIMEX3 tid="t14" type="DATE" value="2013-03-22">1953</TIMEX3> team, Mike Westmacott, died <TIMEX3 tid="t15" type="DATE" value="2013-03-22">last June</TIMEX3>.
+
+</TEXT>
+</TimeML>

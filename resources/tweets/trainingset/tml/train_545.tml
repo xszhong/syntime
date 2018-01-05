@@ -1,7 +1,0 @@
-<?xml version="1.0" ?>
-<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
-<DOCID>train_545.tml</DOCID>
-<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2015-03-13">2015-03-13</TIMEX3></DCT>
-<TEXT>
-TOP OF THE ALPS MADE IT AFTER <TIMEX3 tid="t1" type="DURATION" value="PT2H">2.5 HRS</TIMEX3> OF TREKKING UP CONSIDERING WE TOOK THE SHORT CUT ITS JUST ALL... https://t.co/MrPuRzI5y4</TEXT>
-</TimeML>

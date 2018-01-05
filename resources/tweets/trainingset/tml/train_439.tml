@@ -1,7 +1,0 @@
-<?xml version="1.0" ?>
-<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
-<DOCID>train_439.tml</DOCID>
-<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2014-02-25">2014-02-25</TIMEX3></DCT>
-<TEXT>
-RYO (Beat Buddy Boi) will be judging Singapore Dance Delight Vol. 5 Prelims on <TIMEX3 tid="t1" type="DATE" value="2014-04-26">26 April 2014</TIMEX3>. RT! http://t.co/5juapUMYqA</TEXT>
-</TimeML>

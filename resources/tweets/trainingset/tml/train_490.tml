@@ -1,7 +1,0 @@
-<?xml version="1.0" ?>
-<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
-<DOCID>train_490.tml</DOCID>
-<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2014-09-01">2014-09-01</TIMEX3></DCT>
-<TEXT>
-#HiCollage @fotorusofficial I LOVE U UR PERFECT <TIMEX3 tid="t1" type="DATE" value="PRESENT_REF">NOW</TIMEX3> CHANGE READ THRU DINNER DRINKS DESSERT OR AS JONATHAN... http://t.co/HcEiv1Y98t</TEXT>
-</TimeML>

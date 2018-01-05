@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>train_367.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2014-06-29">2014-06-29</TIMEX3></DCT>
+<TEXT>
+| Spent <TIMEX3 tid="t1" type="DURATION" value="P4D">the last 4 days</TIMEX3> of hols at Clubmed Cherating Beach Resort! One of my most memorable trips... http://t.co/R6cVsio5qN
+</TEXT>
+</TimeML>

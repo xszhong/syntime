@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>test_112.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2015-01-30">2015-01-30</TIMEX3></DCT>
+<TEXT>
+'@ThislsAmazing: Ahmed, the eight-year-old son of a Syrian rebel fighter, smoking and holding an AK-47 in Aleppo. http://t.co/Qz3SSw1LiJ'
+</TEXT>
+</TimeML>

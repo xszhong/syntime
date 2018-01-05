@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>train_522.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2015-01-13">2015-01-13</TIMEX3></DCT>
+<TEXT>
+RI (Y5-6) OPEN HOUSE <TIMEX3 tid="t1" type="DATE" value="2015-01-14">TOMORROW</TIMEX3>!!! Eggcited and see you there http://t.co/8w7iBmPOo3
+</TEXT>
+</TimeML>

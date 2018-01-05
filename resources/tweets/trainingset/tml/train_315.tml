@@ -1,7 +1,0 @@
-<?xml version="1.0" ?>
-<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
-<DOCID>train_315.tml</DOCID>
-<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2013-10-23">2013-10-23</TIMEX3></DCT>
-<TEXT>
-Chinese Animator, Pi San, visits @tischasia Animation and Digital Arts on <TIMEX3 tid="t1" type="DATE" value="2013-10-11">11 Oct 2013</TIMEX3> http://t.co/6VtCPh1a9I</TEXT>
-</TimeML>

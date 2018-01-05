@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>test_82.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2014-09-02">2014-09-02</TIMEX3></DCT>
+<TEXT>
+@Marc_Checkley Hi Marc, is the Contentasia summit <TIMEX3 tid="t1" type="DATE" value="2014-09-02">today</TIMEX3> or <TIMEX3 tid="t2" type="DATE" value="2014-09-03">tomorrow</TIMEX3>?
+</TEXT>
+</TimeML>

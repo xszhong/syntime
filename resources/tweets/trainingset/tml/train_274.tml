@@ -1,7 +1,0 @@
-<?xml version="1.0" ?>
-<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
-<DOCID>train_274.tml</DOCID>
-<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2014-01-07">2014-01-07</TIMEX3></DCT>
-<TEXT>
-A white <TIMEX3 tid="t1" type="DATE" value="2014-WI">winter</TIMEX3>, even in #Singapore http://t.co/gB6rPv2r0Z</TEXT>
-</TimeML>

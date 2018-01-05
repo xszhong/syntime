@@ -1,3 +1,0 @@
-[TIMELINE_REGEX]	tmr|tomo|tdy
-
-[PREFIX_REGEX_1]	all|same

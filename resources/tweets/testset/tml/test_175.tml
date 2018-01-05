@@ -1,7 +1,0 @@
-<?xml version="1.0" ?>
-<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
-<DOCID>test_175.tml</DOCID>
-<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2013-10-28">2013-10-28</TIMEX3></DCT>
-<TEXT>
-For all you workaholics out there. Take some time <TIMEX3 tid="t1" type="SET" value="P1D">each day</TIMEX3> to clear your mind and regain your focus. http://t.co/QzstvQ2uj6 #Yoga</TEXT>
-</TimeML>

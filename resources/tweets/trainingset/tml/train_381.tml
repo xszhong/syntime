@@ -1,7 +1,0 @@
-<?xml version="1.0" ?>
-<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
-<DOCID>train_381.tml</DOCID>
-<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2013-06-26">2013-06-26</TIMEX3></DCT>
-<TEXT>
-@stephylamm my bro went to queue as back up at ard 10plus.. I joined him at <TIMEX3 tid="t1" type="TIME" value="2013-06-26T23:30">1130pm</TIMEX3> after knowing that <TIMEX3 tid="t2" type="DURATION" value="P24H">24hr</TIMEX3> one no more.. <TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">now</TIMEX3> shagged.. T.T</TEXT>
-</TimeML>

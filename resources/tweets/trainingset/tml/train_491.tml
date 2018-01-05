@@ -1,7 +1,0 @@
-<?xml version="1.0" ?>
-<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
-<DOCID>train_491.tml</DOCID>
-<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2015-03-18">2015-03-18</TIMEX3></DCT>
-<TEXT>
-FROM ONE <TIMEX3 tid="t1" type="DATE" value="2014">2014</TIMEX3> SHOW CATCHING UP TO THE NEXT A MISCAST RANDOM REUNION AT <TIMEX3 tid="t2" type="DATE" value="2015-03-18-WXX-3">WEDNESDAY</TIMEX3> KARAOKE <TIMEX3 tid="t3" type="TIME" value="2015-03-18TNI">NIGHT</TIMEX3> IM... https://t.co/qntZi0svyT</TEXT>
-</TimeML>

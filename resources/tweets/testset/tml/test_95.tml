@@ -1,7 +1,0 @@
-<?xml version="1.0" ?>
-<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
-<DOCID>test_95.tml</DOCID>
-<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2014-02-27">2014-02-27</TIMEX3></DCT>
-<TEXT>
-<TIMEX3 tid="t1" type="DATE" value="2014-02-27">Today</TIMEX3>'s loot from IT show woth parents! Thanks to mom who bght me both of this things! #mouse #note3 http://t.co/PrelJlPNaz</TEXT>
-</TimeML>

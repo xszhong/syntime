@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>train_519.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2013-04-07">2013-04-07</TIMEX3></DCT>
+<TEXT>
+Loose Joint and Tony tzar will be holding master classes in O School on <TIMEX3 tid="t1" type="DATE" value="2013-04-14">14 April</TIMEX3>! Grab your passes at O School!! http://t.co/2uz87VVwnv
+</TEXT>
+</TimeML>

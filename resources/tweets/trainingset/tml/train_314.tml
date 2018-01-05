@@ -1,7 +1,0 @@
-<?xml version="1.0" ?>
-<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
-<DOCID>train_314.tml</DOCID>
-<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2014-04-06">2014-04-06</TIMEX3></DCT>
-<TEXT>
-MY WIFEY LOST IT ARG! WRONG SHOW LOL SLOW <TIMEX3 tid="t1" type="DATE" value="2014-04-06-WXX-7">SUNDAY</TIMEX3> 2 SHOWS AND AN UNDERSTUDY REHEARSAL @ The Singapore... http://t.co/ftaEliHq1G</TEXT>
-</TimeML>

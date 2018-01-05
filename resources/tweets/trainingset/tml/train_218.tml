@@ -1,7 +1,0 @@
-<?xml version="1.0" ?>
-<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
-<DOCID>train_218.tml</DOCID>
-<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2014-04-09">2014-04-09</TIMEX3></DCT>
-<TEXT>
-Finally <TIMEX3 tid="t1" type="DATE" value="2014-04-07TNI INTERSECT PT1S">second last night</TIMEX3> in tekong!!</TEXT>
-</TimeML>

@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>train_85.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2015-01-05">2015-01-05</TIMEX3></DCT>
+<TEXT>
+#HiCollage @fotorusofficial REPOST FROM @fjlaurel MY FAMILY FOR <TIMEX3 tid="t1" type="DURATION" value="P1D">DAY</TIMEX3>! AGAIN THANK YOU FOR THE LAUGHS... http://t.co/R3knUkytp3
+</TEXT>
+</TimeML>

@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>train_163.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2013-04-13">2013-04-13</TIMEX3></DCT>
+<TEXT>
+SDD Vol. 4 stall tickets and Master Classes tickets still available at the door! C'mon down to Kallang Theatre at <TIMEX3 tid="t1" type="TIME" value="2013-04-13T19:00">7pm tonight</TIMEX3>! #fnnsdd4
+</TEXT>
+</TimeML>

@@ -1,7 +1,0 @@
-<?xml version="1.0" ?>
-<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
-<DOCID>train_286.tml</DOCID>
-<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2013-08-16">2013-08-16</TIMEX3></DCT>
-<TEXT>
-I WANNA RIDE MY BICYCYLE PENANG Street ART, Malaysia Nikon D4, 50mm F1.8 .3 sec, F22, ISO 50 ESCAPEINC... http://t.co/2QzSOG2WSm</TEXT>
-</TimeML>

@@ -1,7 +1,0 @@
-<?xml version="1.0" ?>
-<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
-<DOCID>train_606.tml</DOCID>
-<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2014-04-14">2014-04-14</TIMEX3></DCT>
-<TEXT>
-RYO (Beat Buddy Boi) is #fnnsdd5 Prelims Judge and he will be having a Hip Hop workshop on <TIMEX3 tid="t1" type="DATE" value="2014-04-27">27 April</TIMEX3>. Get tix <TIMEX3 tid="t2" type="DATE" value="PRESENT_REF">now</TIMEX3>!: https://t.co/O2WCBmdMvK</TEXT>
-</TimeML>
