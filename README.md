@@ -13,4 +13,4 @@ A description to clarify the experiment setting in our paper. In EXPERIMENTS sec
 
 
 ### Publications
-Xiaoshi Zhong and Erik Cambria. Time Expression Analysis and Recognition Using Syntactic Token Types and General Heuristic Rules. In *Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics* (ACL), pages 420-429, 2017. [[pdf](http://aclweb.org/anthology/P/P17/P17-1039.pdf)] [[slides](https://xszhong.github.io/slides/SynTime-ACL2017-ZhongEtal-Slides.pdf)]
+Xiaoshi Zhong, Aixin Sun, and Erik Cambria. Time Expression Analysis and Recognition Using Syntactic Token Types and General Heuristic Rules. In *Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics* (ACL), pages 420-429, 2017. [[pdf](http://aclweb.org/anthology/P/P17/P17-1039.pdf)] [[slides](https://xszhong.github.io/slides/SynTime-ACL2017-ZhongEtal-Slides.pdf)]
